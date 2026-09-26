@@ -1,0 +1,16 @@
+{
+    "latest": {
+        "minecraft": "26.2",
+        "loader": "26.2.0",
+        "api": "26.2.0"
+    },
+    
+    "versions": [
+        {
+            "minecraft": "26.2",
+            "loader": "26.2.0",
+            "api": "26.2.0",
+            "stable": true
+        }
+    ]
+}
