@@ -52,19 +52,11 @@ font-size: 18px;
 font-weight: 700;
 }
 
-.brand-mark {
-width: 26px;
-height: 26px;
-display: flex;
-align-items: center;
-justify-content: center;
-
-background: #d97706;
-color: #ffffff;
-
-font-size: 15px;
-font-weight: 800;
-
+.brand-logo {
+width: 28px;
+height: 28px;
+object-fit: contain;
+display: block;
 }
 
 .navigation {
